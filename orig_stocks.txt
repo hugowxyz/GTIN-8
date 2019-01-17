@@ -1,0 +1,6 @@
+34512340, plain brackets, 50, 0.50
+56756777, 100mm bolts, 100, 0.20
+90673412, L-shaped brackets, 48, 1.20
+31631662, keter pro™ tool box, 10, 18.50
+21531637, allister™ drill, 42, 32.00
+
